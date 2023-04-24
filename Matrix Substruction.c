@@ -21,7 +21,7 @@ int main()
             scanf("%d",&b[i][j]);
         }
     }
-    // adding matrix
+    // subtruction matrix
     for (i=0; i<m; i++)
     {
         for (j=0; j<n; j++)
